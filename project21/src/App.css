@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+
+}
+button{
+position: relative;
+top: 250px;
+width: 150px;
+height: 30px;
+margin: 10px;
+background-color: green;
+color: azure;
+border: 1px solid grey;
+border-radius: 20px;
+}
